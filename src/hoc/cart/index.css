@@ -1,0 +1,23 @@
+.cart{
+
+    border: 2px solid black;
+    padding: 0.5rem;
+    margin: 5pt;
+    display: flex;
+    
+}
+
+.item_title{
+
+    padding-left: 1rem;
+}
+
+.item_name{
+
+    padding-right: 2rem;
+}
+
+.button{
+
+    align-content: center;
+}

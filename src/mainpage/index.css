@@ -1,0 +1,34 @@
+.flex-header {
+    background-color: rgb(10, 231, 220);
+    text-align: center;
+  }
+  
+  .flex-footer {
+    background-color: rgb(218, 124, 178);
+    text-align: center;
+  }
+  
+  .flex-container {
+    display: flex;
+    background-color: rgb(231, 198, 7);
+  }
+  
+  .col {
+    float: left;
+    width: 60%;
+    height: 650px;
+    padding: 10px;
+    background-color: rgb(238, 225, 151);
+  }
+  
+  .column2 {
+    float: left;
+    padding: 10px;
+    width: 40%;
+    background-color: rgb(238, 192, 155);
+  }
+  
+  .row {
+    display: flex;
+  }
+  
